@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joshua Wise (@wk-developer)
+# 👋 Hi, I’m Joshua Wise (@wk-developer @wkplaygames @wiseking)
 
 I’m a passionate game developer and creative technologist with a knack for building engaging, visually appealing, and user-friendly digital experiences. My work spans mobile games/app, web applications, and interactive tutorials — often blending creativity with problem-solving.
 
