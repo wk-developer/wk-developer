@@ -9,6 +9,7 @@
 I’m a passionate **game developer**, **mobile app builder**, and **creative technologist** with a knack for crafting **engaging, visually appealing, and user-friendly digital experiences**.  
 My work spans **mobile games/apps, web applications, and interactive tutorials** — blending creativity with problem-solving.
 
+publicly know as wkplaygames on SEO, wiseking is my brand name
 ---
 
 ## 🛠️ Skills & Tools
