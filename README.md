@@ -80,7 +80,7 @@ My work spans **mobile games/apps, web applications, and interactive tutorials**
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@w.i.s.e.k.i.n.g?si=edRhvyYIAKzlpjh5)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/learn-how-to-make-games-with-your-smartphone/?couponCode=HAPPYGAMING)
 [![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wkplaygames)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joshua-azubuike-73665a275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-azubuike-73665a275)
 
 ---
 
