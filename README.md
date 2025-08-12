@@ -1,12 +1,11 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I’m Joshua Wise (@wk-developer | @wkplaygames | @wiseking)</h1>
-<h3 align="center">Game Developer • Creative Technologist • Web App Builder</h3>
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Joshua%20Wise%20(@wk-developer)&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Creative%20Technologist&descAlignY=55&descAlign=50" width="100%"/>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate **game developer** and **creative technologist** with a knack for building **engaging, visually appealing, and user-friendly digital experiences**.  
-My work spans **mobile games/apps, web applications, and interactive tutorials** — often blending creativity with problem-solving.
+I’m a passionate **game developer**, **mobile app builder**, and **creative technologist** with a knack for crafting **engaging, visually appealing, and user-friendly digital experiences**.  
+My work spans **mobile games/apps, web applications, and interactive tutorials** — blending creativity with problem-solving.
 
 ---
 
@@ -15,6 +14,7 @@ My work spans **mobile games/apps, web applications, and interactive tutorials**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Web3](https://img.shields.io/badge/Web3-E534AB?style=for-the-badge&logo=ethereum&logoColor=fff)
 ![GDevelop](https://img.shields.io/badge/GDevelop-5E5E5E?style=for-the-badge&logo=gdevelop&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
@@ -23,10 +23,11 @@ My work spans **mobile games/apps, web applications, and interactive tutorials**
 ---
 
 ## 👀 Interests
-- 🎮 **Game Development**
-- 🎨 **UI/UX Design**
-- 🌐 **Web Apps**
-- 📚 **Interactive Learning Tools**
+- 🎮 Game Development  
+- 📱 Mobile App Development  
+- 🎨 UI/UX Design  
+- 🌐 Web Applications  
+- 📚 Interactive Learning Tools  
 
 ---
 
@@ -36,6 +37,7 @@ My work spans **mobile games/apps, web applications, and interactive tutorials**
 - **Web3** & Decentralized Applications
 - **AI Integration** in Games & Web Apps
 - **Firebase Functions**
+- **React Native**
 - Responsive UI Frameworks
 
 ---
@@ -43,6 +45,7 @@ My work spans **mobile games/apps, web applications, and interactive tutorials**
 ## 🤝 Collaboration
 💞 I’m looking to collaborate on:
 - Game design projects
+- Mobile app development
 - Indie game asset creation
 - AI-powered applications
 - Creative and innovative web apps
