@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Joshua%20Wise%20(@wk-developer)&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Web%20Application%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descAlign=50&descColor=black" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Joshua%20Wise%20(@wk-developer)&fontSize=30&animation=fadeIn&fontAlignY=35&fontColor=000000&desc=Game%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Web%20Application%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descAlign=50&descColor=000000" width="100%"/>
+
 
 
 ---
@@ -57,7 +58,7 @@ My work spans **mobile games/apps, web applications, and interactive tutorials**
 | Project | Description |
 |---------|-------------|
 | [Ultimate Dinosaur](https://wk-dev.itch.io/ultimate-dinosaur) | A fun dinosaur adventure game |
-| [Block Candy](https://wk-dev.itch.io/block-candy) | Sweet puzzle challenge game |
+| [Block Candy](https://wk-dev.itch.io/block-candy) | Sweet action pad shoot challenge game |
 | [3D Object Tutorial Game](https://gd.games/wkplaygames/3d-object-tutorial) | GDevelop 3D learning experience |
 | [Brief.url](https://b-url.onrender.com/) | Sleek URL shortener *(in development)* |
 | [Naija Hustle Plug](https://naijahustleplug.com/) | Backend, ads & hosting |
