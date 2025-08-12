@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @wk-developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Joshua Wise (@wk-developer)
 
-<!---
-wk-developer/wk-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate game developer and creative technologist with a knack for building engaging, visually appealing, and user-friendly digital experiences. My work spans mobile games/app, web applications, and interactive tutorials — often blending creativity with problem-solving.
+
+- 👀 **Interests:** Game development, UI/UX design, web apps, and interactive learning tools.  
+- 🌱 **Currently Learning:** Advanced JavaScript/TypeScript, Next.js, web3, AI, Firebase Functions, and responsive UI frameworks.  
+- 💞️ **Looking to Collaborate On:** Game design projects, indie game assets, and web apps that inspire creativity.  
+- 🎮 **Projects:**  
+  - [Ultimate Dinosaur](https://wk-dev.itch.io/ultimate-dinosaur)  
+  - [Block Candy](https://wk-dev.itch.io/block-candy)  
+  - [3D Object Tutorial Game](https://gd.games/wkplaygames/3d-object-tutorial)  
+  - [Brief.url – Sleek URL shortener] (https://b-url.onrender.com/)*(in development)*
+  - [Naija hustle plug] (https://naijahustleplug.com/) *worked on the backend, ads, and hosting.
+  - [House of ina female clothing] (https://houseofinaofficial.com/) worrked on the backend, apis, payment intergrition, cms, and hosting.
+- 📫 **Reach Me:** [YouTube](https://youtube.com/@w.i.s.e.k.i.n.g?si=edRhvyYIAKzlpjh5) • [Udemy](https://www.udemy.com/course/learn-how-to-make-games-with-your-smartphone/?couponCode=HAPPYGAMING)  
+
+✨ _Always building, always learning._  
