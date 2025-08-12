@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Joshua%20Wise%20(@wk-developer)&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Creative%20Technologist&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Joshua%20Wise%20(@wk-developer)&fontSize=30&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Web%20Application%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descAlign=50&descColor=2d2d2d" width="100%"/>
+
 
 ---
 
