@@ -12,6 +12,7 @@ I’m a passionate game developer and creative technologist with a knack for bui
   - [Brief.url – Sleek URL shortener](https://b-url.onrender.com/)*(in development)*
   - [Naija hustle plug](https://naijahustleplug.com/) *worked on the backend, ads, and hosting.*
   - [House of ina female clothing](https://houseofinaofficial.com/) *worrked on the backend, apis, payment intergrition, cms/admin dashboard, and hosting.*
+  - [Dailyedge AI coaching assist](https://dailyedgeapp.store/)
 - 📫 **Reach Me:** [YouTube](https://youtube.com/@w.i.s.e.k.i.n.g?si=edRhvyYIAKzlpjh5) • [Udemy](https://www.udemy.com/course/learn-how-to-make-games-with-your-smartphone/?couponCode=HAPPYGAMING)  
 
 ✨ _Loves building, always learning._  
